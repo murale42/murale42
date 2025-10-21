@@ -3,7 +3,6 @@
 🎯 **Software Engineer | Python & Web Developer | Django, FastAPI**
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AllesKuz)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexandra42kuz@gmail.com)
 
 ---
 
