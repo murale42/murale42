@@ -29,7 +29,7 @@ Fetches random user data from [randomuser.me](https://randomuser.me) – 2025
 Built in Unity using C# – 2023  
 
 ### 📊 Data Analysis & ML
-Projects using Python – 2024  
+Projects using Python – 2025  
 
 ---
 
