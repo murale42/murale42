@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aleksandra
 
-🎯 **Software Engineer | Python & Web Developer | Django, FastAPI**
+**Software Engineer | Python & Web Developer | Django, FastAPI**
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AllesKuz)
 
