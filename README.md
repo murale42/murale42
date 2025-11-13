@@ -6,7 +6,7 @@
 
 ---
 
-## 💻 Current Projects
+## Current Projects
 
 ### 🌐 Blog Web App (Django)
 Interactive blogging platform with user engagement features  
