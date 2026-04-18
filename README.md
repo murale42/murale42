@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Aleksandra
 
-**Software Engineer | Python & Web Developer | Django, FastAPI**
-
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AllesKuz)
 
 ---
@@ -14,22 +12,16 @@ Interactive blogging platform with user engagement features
 **Project Management:** Git, Jira, Confluence
 
 ### 🔗 URL Shortener API (REST)
-Shortens long URLs with stats, expiration, and deactivation – 2025  
+Shortens long URLs with stats, expiration, and deactivation  
 **Tech & Tools:** Python, FastAPI, PostgreSQL  
 
 ### 👥 Random User Web App (FastAPI)
-Fetches random user data from [randomuser.me](https://randomuser.me) – 2025  
+Fetches random user data from [randomuser.me](https://randomuser.me) 
 **Tech & Tools:** FastAPI, Python, PostgreSQL  
 
 ### 🛒 Online Store Apps
 - Monolithic Django web app – 2025  
 - Microservices architecture with FastAPI – 2025  
-
-### 🎮 2D Platformer Prototype
-Built in Unity using C# – 2023  
-
-### 📊 Data Analysis & ML
-Projects using Python – 2025  
 
 ---
 
@@ -78,9 +70,4 @@ Projects using Python – 2025
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
----
-
-## ✨ About Me
-Always exploring new tools, frameworks, and challenges to improve my skills.
-I am currently studying at Tomsk Polytechnic University.
 ---
