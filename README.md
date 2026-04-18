@@ -2,64 +2,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AllesKuz)
 
-**IT Project Manager** with a technical background and full-cycle web product development experience.  
-I bridge the gap between business needs and development teams — from requirements gathering and backlog management to launch and support.
 
----
-
-## Current Projects
-
-### 🌐 Blog Web App (Django)
-Interactive blogging platform with user engagement features  
-- **Project Management:** Git, Jira, Confluence, GanttPRO
-- **Tech & Tools:** Django, Python
-
-### 📚 Classifieds for Students - 2026
-Platform for students to buy/sell goods and services within the university community  
-- **Project Management:** Git, Jira, Confluence, GanttPRO, MS Project
-- **Tech & Tools:** Python, FastAPI, PostgreSQL
-
-### 💻 Electronics Retail Website (Multi-service) - 2025
-Website for a tech retail chain with online purchasing and delivery  
-- **Project Management:** Git, Jira, Confluence, ProjectLibre  
-- **Tech & Tools:** Python, FastAPI, PostgreSQL
-
-### 🤖 HR Bot for Employees - 2025
-Corporate Telegram bot providing quick access to company info, event organization, training materials, and feedback collection  
-- **Project Management:** Git, Jira, Confluence
-- **Tech & Tools:** Python, aiogram, PostgreSQL
-
-### 🔗 URL Shortener API (REST) - 2025
-Shortens long URLs with stats, expiration, and deactivation  
-- **Project Management:** Git, Jira, Confluence
-- **Tech & Tools:** Python, FastAPI, PostgreSQL
-
-### 👥 Random User Web App (FastAPI) - 2025
-Fetches random user data from [randomuser.me](https://randomuser.me) 
-- **Project Management:** Git, Jira, Confluence
-- **Tech & Tools:** FastAPI, Python, PostgreSQL
-
-### 🛒 Online Store Apps
-**Project Management:** Git, Jira, Confluence
-- Microservices architecture with FastAPI - 2025
-- Monolithic Django web app - 2024
-
----
-### Project Management & Processes
-- Full project lifecycle (Waterfall, Agile/Scrum, Kanban)  
-- Backlog management, decomposition, sprint planning, risk management  
-- Requirements gathering, user story mapping, stakeholder management  
-- Team coordination, communication facilitation, progress tracking  
-
-### Tools
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-![MS Project](https://img.shields.io/badge/-MS%20Project-217346?style=for-the-badge&logo=microsoft-project&logoColor=white)
-![GanttPRO](https://img.shields.io/badge/-GanttPRO-00A3E0?style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
----
 ### 🛠 Technical Awareness
 ---
 ### Languages
