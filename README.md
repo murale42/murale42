@@ -44,8 +44,8 @@ I’m a System Analyst with a strong technical background in Software Engineerin
 ### 📫 How to reach me
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AllesKuz)
 
-#### 🖥️ Technical Awareness (Development Background)
 ---
+#### 🖥️ Technical Awareness (Development Background)
 #### Languages
 ![Python](https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
